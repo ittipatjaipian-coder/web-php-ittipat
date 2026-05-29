@@ -1,2 +1,3 @@
-# web-php-ittipat
-web php project
+# ittipat jaipian
+รหัสนักศึกษา 69319010028 
+แผนกวิชา เทคโนโลยีสารสนเทศ
